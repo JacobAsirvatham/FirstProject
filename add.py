@@ -1,3 +1,3 @@
 a = 20000
 b = 2
-print(a+b)
+print(a*b)
